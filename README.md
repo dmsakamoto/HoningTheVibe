@@ -2,6 +2,8 @@
 
 ## _It's not about getting it right. It's about getting it not wrong!_
 
+Notes on general approach
+
 1. Develop going top-down: Lay out pages, then hone sections, then go after elements. **Do not** aim for the agent to be _perfect_.
 1. Start simple, then add complexity
 1. Do not commit to one agent. Pit the agents against each other.
