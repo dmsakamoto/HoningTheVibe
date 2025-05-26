@@ -1,6 +1,6 @@
 # HoningTheVibe
 
-* It's not about getting it right. It's about getting it not wrong! *
+_It's not about getting it right. It's about getting it not wrong!_
 
 Location where I am logging the best practices for vibe coding
 
