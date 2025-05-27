@@ -23,7 +23,7 @@ Notes on general approach
 1. Letting the agent work off a PowerPoint is a great starting point
 1. Screenshots from other agents
 1. Bring in source documentation
-    - Recharts[https://recharts.org/en-US]
+    - [Recharts](https://recharts.org/en-US) - Chart library for React
     -  
 
 ## Things to remember
